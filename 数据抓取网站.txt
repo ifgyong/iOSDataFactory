@@ -1,0 +1,40 @@
+一、语音类
+“讯飞语音”的开放平台
+http://open.voicecloud.cn/index.php/manage/sdk
+
+二、小说类
+http://www.hao123.com/book
+
+三、诗词阅读、词典
+这个网站有丰富的诗词数据、还有各种字典、词典
+http://www.zdic.net/
+
+四、游戏攻略手册
+可以考虑比较热门的游戏：LOL、DOTA、我叫MT
+1. LOL
+http://lol.qq.com/web201310/info-heros.shtml#Navi
+http://lol.duowan.com/hero/
+
+2. DOTA
+http://dota.uuu9.com/hero/
+
+3. 我叫MT
+http://db.duowan.com/mt/
+http://mt.db.shouyou.com/ios2/
+http://mt.mz6.net/data/
+http://db.gamedog.cn/mt/guaiwu/
+
+五、生活常识（健康）
+http://www.135139.net/
+http://www.jk123.net/
+http://www.jk3721.com/
+
+六、美食（菜谱）
+http://www.douguo.com/
+http://www.meishichina.com/
+http://www.meishij.net/
+
+七、代码仓库
+http://code4app.com/
+https://github.com/
+（其他问题可以通过QQ或者邮件方式请教老师）
