@@ -2,7 +2,7 @@
 各种iOS学习资料整理，欢迎一起学习！长期更新。
 包含资料:
 
-		  	 1.CFNetWork编程指南
+	       1.CFNetWork编程指南
                2.Blosks编程要点
                3.JS和OC交互
                4.OpenGL资料
