@@ -2,7 +2,7 @@
 各种iOS学习资料整理，欢迎一起学习！长期更新。
 包含资料:
 
-		  	 1.CFNetWork编程指南
+	       1.CFNetWork编程指南
                2.Blosks编程要点
                3.JS和OC交互
                4.OpenGL资料
@@ -16,3 +16,10 @@
 现在用不着，收藏了，以后再用。欢迎Start,你的start就是我更新的动力。
 百度网盘分享地址:
 https://pan.baidu.com/s/1hsj1OZM
+
+
+
+现在在努力学习OpenGLES2.0
+
+[Demo集合地址](https://github.com/ifgyong/learnOpenGLES)
+有一起学习的iOSer，一起学习啊。欢迎start
