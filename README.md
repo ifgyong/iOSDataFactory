@@ -16,3 +16,8 @@
 现在用不着，收藏了，以后再用。欢迎Start,你的start就是我更新的动力。
 百度网盘分享地址:
 https://pan.baidu.com/s/1hsj1OZM
+
+
+现在在学习OpenGLES2.0
+Demo是https://github.com/ifgyong/learnOpenGLES
+有一起学习的iOSer，一起学习啊。欢迎start
