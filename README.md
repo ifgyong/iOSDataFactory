@@ -18,6 +18,8 @@
 https://pan.baidu.com/s/1hsj1OZM
 
 
-现在在学习OpenGLES2.0
-Demo是https://github.com/ifgyong/learnOpenGLES
+
+现在在努力学习OpenGLES2.0
+
+[Demo集合地址](https://github.com/ifgyong/learnOpenGLES)
 有一起学习的iOSer，一起学习啊。欢迎start
