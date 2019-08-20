@@ -23,3 +23,10 @@ https://pan.baidu.com/s/1hsj1OZM
 
 [Demo集合地址](https://github.com/ifgyong/learnOpenGLES)
 有一起学习的iOSer，一起学习啊。欢迎start
+
+
+### OC进阶
+- [OC底层原理demo code ](https://github.com/ifgyong/demo/tree/master/OC)持续更新
+
+
+- [iOS设计模式](https://github.com/ifgyong/demo/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
