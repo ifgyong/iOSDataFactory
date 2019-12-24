@@ -14,10 +14,8 @@
                11.相机与滤镜
                12.算法的乐趣
 现在用不着，收藏了，以后再用。欢迎Start,你的start就是我更新的动力。
-百度网盘分享地址:
-https://pan.baidu.com/s/1hsj1OZM
 
-
+获取网盘最新地址 mail to ios_2019_ziliao@163.com
 
 现在在努力学习OpenGLES2.0
 
