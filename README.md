@@ -31,3 +31,11 @@
 
 ### leetcode
 [leetcode 题解(持续更新中。。。)](https://github.com/ifgyong/leetCode/wiki)
+## 很好用的图床APP，自动上传图片到图床，支持单图，多图
+支持图床
+- 阿里云OSS
+- 七牛 
+- 又拍云
+- 腾讯云
+
+[AUY 一款很懂开发者的APP](https://github.com/ifgyong/AUY)
