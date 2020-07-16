@@ -29,6 +29,9 @@
 
 - [iOS设计模式](https://github.com/ifgyong/demo/tree/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
+### Flutter 入门与进阶
+- [Flutter 入门与进阶 Gitbook](https://github.com/ifgyong/flutter-guide)
+
 ### leetcode
 [leetcode 题解(持续更新中。。。)](https://github.com/ifgyong/leetCode/wiki)
 ## 很好用的图床APP，自动上传图片到图床，支持单图，多图
