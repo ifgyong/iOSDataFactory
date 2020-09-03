@@ -31,6 +31,7 @@
 ### Flutter 入门与进阶
 - [Flutter 入门与进阶 Gitbook](https://github.com/ifgyong/flutter-guide)
 - [Flutter 100种组件的使用](https://github.com/ifgyong/flutter-example)
+- [Flutter 很酷炫的加载动画](https://github.com/ifgyong/flutter_easyHub)
 
 ### leetcode
 [leetcode 题解(持续更新中。。。)](https://github.com/ifgyong/leetCode/wiki)
